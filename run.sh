@@ -31,4 +31,4 @@ schedule_reboot() {
   shutdown -h +$(($time_diff / 60))
 }
 
-schedule_reboot "2024-02-23 19:05:00"
+schedule_reboot "2024-02-23 18:25:00"
